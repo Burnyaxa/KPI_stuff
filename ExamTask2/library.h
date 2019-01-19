@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 using namespace std;
-vector <string> getText(); //Ввод текста с клавиатуры
-vector <string> editedText(vector <string> text); //Получение отформатированого текста
-string changeWord(string); //Форматирование текста в соотвествии с поставленой задачей
-void getResult(vector <string>); //Вывод результата на экран
+vector <string> getText(); //Р’РІРѕРґ С‚РµРєСЃС‚Р° СЃ РєР»Р°РІРёР°С‚СѓСЂС‹
+vector <string> editedText(vector <string> text); //РџРѕР»СѓС‡РµРЅРёРµ РѕС‚С„РѕСЂРјР°С‚РёСЂРѕРІР°РЅРѕРіРѕ С‚РµРєСЃС‚Р° РІ СЃРѕРѕС‚РІРµС‚СЃРІРёРё СЃ Р·Р°РґР°С‡РµР№
+string changeWord(string); //Р¤РѕСЂРјР°С‚РёСЂРѕРІР°РЅРёРµ РєР°Р¶РґРѕР№ СЃС‚СЂРѕРєРё С‚РµРєСЃС‚Р°
+void getResult(vector <string>); //Р’С‹РІРѕРґ РєРѕРЅРµС‡РЅРѕРіРѕ СЂРµР·СѓР»СЊС‚Р°С‚Р° РЅР° СЌРєСЂР°РЅ
